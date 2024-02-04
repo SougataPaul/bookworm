@@ -2,7 +2,7 @@
 
 PageTurner is a social networking application that allows readers to connect with their fellow readers. The application is for people interested in reading books and wants to explore the world of bibliophiles further.
 
-Link: https://crnycompetition-99.streamlit.app/
+Link: https://pageturnerse.netlify.app/
 
 ## Tech
 ### Frontend
